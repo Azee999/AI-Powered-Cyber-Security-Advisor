@@ -1,7 +1,5 @@
 # AI Cybersecurity Advisor
 
-![Project Screenshot](/frontend/screenshot.png) *(Add your screenshot image if available)*
-
 An intelligent security tool that detects phishing attempts, malicious URLs, and compromised passwords using AI analysis.
 
 ## Features
@@ -23,7 +21,7 @@ An intelligent security tool that detects phishing attempts, malicious URLs, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-cybersecurity-advisor.git
+   git clone https://github.com/Faiq-Ali-372/AI-Powered-Cyber-Security-Advisor.git
    cd ai-cybersecurity-advisor
  
 2.API :
