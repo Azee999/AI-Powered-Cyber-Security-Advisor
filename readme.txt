@@ -1,4 +1,6 @@
-# AI Cybersecurity Advisor
+# AI Cybersecurity Advisor (Forked Group Project)
+
+> **Note:** This project was originally developed as a **group project** by the original team and has been forked to my GitHub account for personal reference and learning.
 
 An intelligent security tool that detects phishing attempts, malicious URLs, and compromised passwords using AI analysis.
 
@@ -19,15 +21,7 @@ An intelligent security tool that detects phishing attempts, malicious URLs, and
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Faiq-Ali-372/AI-Powered-Cyber-Security-Advisor.git
-   cd ai-cybersecurity-advisor
- 
-2.API :
-   Get your api and put them into the .env folder
-
-2.Steps :
-  .pip install -r requirements.txt
-  .python backend/app.py
-  .then go to the local host http://localhost:5000
+   git clone https://github.com/<your-username>/AI-Powered-Cyber-Security-Advisor.git
+   cd AI-Powered-Cyber-Security-Advisor
